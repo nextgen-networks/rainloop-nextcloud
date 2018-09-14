@@ -1,10 +1,13 @@
-# Warning - early BETA BETA!
-forked from Alain and made first initial changes for Nextcloud 13/14
-
 # rainloop-nextcloud
 
 rainloop-nextcloud is a plugin for Nextcloud to use the excellent Rainloop webmail (http://www.rainloop.net/).
 
+This is an early BETA made by @nextgen-networks with first initial changes for Nextcloud 14. Work in progress!
+
+Thank you to all contributors to Rainloop for nextcloud:
+- Rainloop Team, who initiated it
+- Tab Fitts (@tabp0le)
+- Nextgen Networks (@nextgen-networks)
 
 ## How to Install
 
